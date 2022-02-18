@@ -1,6 +1,6 @@
 # Insta_handle
 
-## Broad data refernences
+## Broad data references
 - https://tcpd.ashoka.edu.in/data/
 - https://www.eiu.com/
 - https://rbi.org.in/Scripts/Statistics.aspx
